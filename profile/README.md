@@ -1,4 +1,5 @@
 # Cheat Sheet Code Base 📚💻
+I will upload my learning notes here, but in a cheatsheet format.
 
 Want to see more? Join my [daily.dev squad](https://dly.to/qVGsciQomog)
 
