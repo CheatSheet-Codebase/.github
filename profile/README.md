@@ -1,5 +1,7 @@
 # Cheat Sheet Code Base 📚💻
 
+Want to see more? Join my daily.dev squad: dly.to/qVGsciQomog
+
 ## Purpose 🎯
 The **Cheat Sheet Code Base** is your go-to resource for quick and easy programming tips, best practices, and code examples! Whether you're just starting out or are a seasoned developer, this repository will help you save time by providing quick access to syntax guides, code snippets, and tips for various programming languages and frameworks.
 
